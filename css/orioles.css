@@ -1,0 +1,78 @@
+/* CSS Document */
+body{margin-top: 0px; margin-left: 0px;}
+@font-face{font-family: "grilledcheesebtnwideblk"; src: url(fonts/grilledcheesebtnwideblk.eot); src: local("GrilledCheese BTN Wide Blk"), url(/fonts/grilledcheesebtnwideblk.woff) format("woff"), url(/fonts/grilledcheesebtnwideblk.ttf) format("truetype");}
+.fontsforweb_fontid_1094 {font-family: "grilledcheesebtnwideblk";}
+
+.oriolesPage{
+	width: 50px;
+	height: 50px;
+	position: relative;
+	top: 250px;
+	left: 1205px;
+	z-index: 81;
+}
+.oriolesPage img{border: 0px;}
+
+.journalOrioles{
+	margin: 0px;
+	width: 763px;
+	height: 457px;
+	background-image: url(../images/bg-journal.png);
+	background-repeat: no-repeat;
+	clear: both;
+	position: relative;
+	top: -510px;
+	left: 470px;
+	z-index: 80;
+	box-shadow: 1px 0px 7px 0px #000;
+	}
+.tropicanaField{
+		width: 170px;
+		height: 122px;
+		margin: 0px auto 0px auto;
+		
+}
+.attendance{
+		width: 130px;
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 12px;
+		position: relative;
+		top: -180px;
+		left: 500px;
+
+}
+.summary{
+		width: 400px;
+		height: auto;
+		margin: 0px auto 0px 310px;
+}
+.summary p{
+		margin: 0px 0px 0px 0px;
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 12px;
+}
+.boxscore{
+		margin: 0px auto 0px 345px;
+		width: 418px;
+		height: 94px;
+}
+.ticket{
+	width: 370px;
+	height: 370px;
+	position: relative;
+	top: -320px;
+	left: 10px;
+}
+.notes{
+	width: 700px;
+	height: auto;
+	margin: 0px 0px 0px 0px;
+	position: relative;
+	bottom: 335px;
+	left: 20px
+}
+.notes p{
+		margin: 0px 0px 0px 0px;
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 12px;
+}
