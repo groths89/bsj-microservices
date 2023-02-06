@@ -1,5 +1,5 @@
 ---
-name: Pull Request Template
+name: Pull Request
 about: Request for a pull request to Master
 title: Pull Request
 labels: ''
