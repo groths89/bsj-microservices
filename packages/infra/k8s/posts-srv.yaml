@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: posts-srv
+spec:
+  type: NodePort
+  selector:
+    app: community-posts
+  ports:
+    - name: community-posts
+      protocol: TCP
+      port: 4000
+      targetPort: 4000
