@@ -74,7 +74,8 @@
 
 ### Built With
 
-- [![React][react.js]][react-url]
+- [![Nextjs][next.js]][next-url] ... Auth/Profile Application
+- [![Docker][docker]][docker-url] ... Docker/Kubernetes Infrastructure
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
