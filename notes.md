@@ -2,6 +2,14 @@
 
 - Auth
 - Client Side App
+- Deployment of Frontend
+
+## Can Work on Later
+
+- Backend microservices and APIs
+- Infrastructure
+- Deployments/GitHub Actions
+- Mobile Application
 
 ## Questions
 
